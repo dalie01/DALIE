@@ -1,9 +1,9 @@
 public class HelloWorld {
 
-  private static final String S1;
+  private static final String s1;
 
   static {
-    S1 = "HelloWorld";
+    s1 = "HelloWorld";
   }
 
   public static void main(String[] args) {
